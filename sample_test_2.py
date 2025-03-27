@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1DblOblYcmDSjxUR9Gg2EwriRzEnLo6J6
 """
 
+# maximum in 3 members:
 harry=int(input())
 ron=int(input())
 hermoine=int(input())
@@ -17,6 +18,8 @@ elif ron>hermoine:
 else:
     print("hermoine is max")
 
+
+#sum of first, last, third and last third numbers in a 10 digit number:
 n=int(input())
 sum=0
 count=0
